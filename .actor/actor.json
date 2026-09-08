@@ -1,0 +1,12 @@
+{
+  "actorSpecification": 1,
+  "name": "barcode-generator-content-scraper",
+  "title": "Barcode Generator Content Scraper",
+  "version": "1.0",
+  "description": "Extract structured SEO metadata, headings, content, links, and images from Barcode Generator webpages.",
+  "input": "./input_schema.json",
+  "output": "./output_schema.json",
+  "storages": {
+    "dataset": "./dataset_schema.json"
+  }
+}
